@@ -1,4 +1,5 @@
-﻿using System;
+﻿// implemented voice greeting using wav file
+using System;
 using System.Media;
 using System.Media;
 
