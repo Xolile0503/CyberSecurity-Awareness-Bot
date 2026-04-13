@@ -1,4 +1,7 @@
-﻿using System;
+// added chatbot logic and user interaction
+//implemented input validation and default response
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -69,3 +72,5 @@ namespace PROG_POE
         }
     }
 }
+added logic and user interaction
+implemented input validation and default response
