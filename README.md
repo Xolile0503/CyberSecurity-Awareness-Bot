@@ -1,7 +1,7 @@
 # Cybersecurity Awareness Bot
 
 ## Features
-- Voice greeting (WAV file)
+- Voice greeting 
 - ASCII art logo
 - User interaction
 - Cybersecurity tips (passwords, phishing, browsing)
@@ -10,9 +10,6 @@
 
 ## CI/CD
 GitHub Actions is used to automatically build the project on each push.
-
-## Screenshot
-(Add screenshot of green check ✔ from Actions tab)
 
 ## How to Run
 1. Open project in Visual Studio
